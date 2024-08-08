@@ -16,6 +16,7 @@ python--version
 pip--version
 
 --------------------------------------------------------------------**Django**--------------------------------------------
+
 Ahora si padamos a instalar el entorno virtual que es Django usando pip
 
 pip install django
@@ -52,6 +53,7 @@ DATABASE_URL=sqlite:///db.sqlite3 --- En caso de usar ese gestor de base de dato
 python manage.py migrate
 
 vista 
+
 ![image](https://github.com/user-attachments/assets/46c31a07-eac0-4c1d-9798-137adb8048e7)
 
 
