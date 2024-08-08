@@ -15,6 +15,9 @@ python--version
 
 pip--version
 
+
+php artisan passport:install
+
 --------------------------------------------------------------------**Django**--------------------------------------------
 
 Ahora si padamos a instalar el entorno virtual que es Django usando pip
@@ -24,6 +27,23 @@ pip install django
 ***Verifica la instalación de Django**
 
 python-django-version
+
+
+**Django REST framework: Para construir APIs RESTful.**
+
+pip install djangorestframework
+
+**Django coors headers para manejar solicitudes CORS**
+pip install django-cors-headers
+
+Drivers para MySQL 
+
+pip install mysqlclient
+
+pip install -r requirements.txt
+
+
+
 
 ---------------------------------------------------------------**Clonar repositorio**-------------------------------------
 
